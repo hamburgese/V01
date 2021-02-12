@@ -3,7 +3,16 @@
 		<App id="app">
 			<pages>
 				<Page id="page" title="{i18n>title}">
-					<content></content>
+					<content>
+						
+						<Text
+						
+							text="test 1652"
+						>
+						
+						</Text>
+						
+					</content>
 				</Page>
 			</pages>
 		</App>
